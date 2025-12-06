@@ -52,13 +52,12 @@
 
 | Список задач | Список задач (темная тема) | Список задач (блоки) | Список задач (календарь) |
 |----------------------|----------------------|----------------------|----------------------|
-|![photo_2025-12-05_20-18-41](https://github.com/user-attachments/assets/295f7b30-6113-4cb3-99bc-3e64a871fdec) | ![photo_2025-12-05_20-18-42](https://github.com/user-attachments/assets/08352f39-e7e4-4c23-80c1-60d9379ddfb7) | ![photo_2025-12-05_20-18-45 (2)](https://github.com/user-attachments/assets/d02d0843-b121-41b6-86dc-17df7ba444b4) | ![photo_2025-12-05_20-18-46](https://github.com/user-attachments/assets/e6a0c5a2-bc9a-4264-9b39-cda18e4b8e7d) |
+|![photo_2025-12-06_20-42-10](https://github.com/user-attachments/assets/0ff86097-7dfd-4cb9-ba00-1abdb79e6327)|![photo_2025-12-06_20-42-11](https://github.com/user-attachments/assets/6056af84-aacc-4122-9685-adc69787950e)|![photo_2025-12-06_20-42-14](https://github.com/user-attachments/assets/e66cdefe-75d7-4852-a27d-e90f2fe9581c)|![photo_2025-12-06_20-42-14 (2)](https://github.com/user-attachments/assets/90538f82-1fea-4afe-959f-1918626cedaa)|
+
 
 |  Меню |  Представление задач |  Сортировка задач |  Поиск задач |  Категории задач |
 |----------------------|----------------------|----------------------|----------------------|----------------------|
-| ![photo_2025-12-05_20-18-44](https://github.com/user-attachments/assets/fc88ade4-0a36-42cc-b05a-5fde58411222) | ![photo_2025-12-05_20-18-45](https://github.com/user-attachments/assets/a6a62ae8-1e5d-42b5-8765-a6ac04fd1b63) | ![photo_2025-12-05_20-18-44 (2)](https://github.com/user-attachments/assets/ae5e88b2-4263-4ace-a6c3-06f67387ed6d) | ![photo_2025-12-05_20-18-46 (2)](https://github.com/user-attachments/assets/67f1d0f4-ab8e-41fd-9f77-4c57b467a3d8) | ![photo_2025-12-05_20-18-43](https://github.com/user-attachments/assets/0be60fc8-3df5-4acb-a009-9156d8c0dc0d) |
-
-
+|![photo_2025-12-06_20-42-12 (2)](https://github.com/user-attachments/assets/e673d587-f0d5-42ce-a6a5-4691310c3687)|![photo_2025-12-06_20-42-13 (2)](https://github.com/user-attachments/assets/5aac296c-8eb3-4e93-8a4a-3ad0148f6f6b)|![photo_2025-12-06_20-42-13](https://github.com/user-attachments/assets/13872208-4f74-4114-9c40-48294f4d42ed)|![photo_2025-12-06_20-42-15](https://github.com/user-attachments/assets/3e5a5b91-6ec1-4d48-ac39-0f482b34417b)|![photo_2025-12-06_20-42-12](https://github.com/user-attachments/assets/926b1e3e-b740-4c91-acc9-cb3aa7e014fa)|
 
 ## 💻 Технологии разработки
 
